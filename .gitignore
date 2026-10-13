@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+*.py[cod]
+
+# 忽略数据集和生成的图表
+data/
+output/
+*.xlsx
+*.png
